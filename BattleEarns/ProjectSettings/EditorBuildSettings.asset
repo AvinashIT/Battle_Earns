@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/All_asserts/Scenes/MainMenu.unity
+    guid: ea22c6fe8100d1d40906182caf08f74c
+  - enabled: 1
+    path: Assets/All_asserts/Scenes/GameScene.unity
+    guid: 106db57ce3b7b9e43b170b31227c6827
+  - enabled: 1
+    path: Assets/All_asserts/Scenes/Authen.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/All_asserts/Brick Project Studio/Apartment Kit/Scenes/Scene_02.unity
+    guid: 9b5aa6428ba7a6246bd201ba8d95cebe
+  - enabled: 1
+    path: Assets/All_asserts/Scenes/Fire.unity
+    guid: ef32824001b63474d9ebe1cab806b0ac
+  m_configObjects: {}
