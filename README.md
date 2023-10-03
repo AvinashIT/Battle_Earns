@@ -4,7 +4,7 @@
 ## Demo Video
 
 <br/>
- ⚙ A application which diverse all threee aspects of gaming,blockchain and virtual reality in single paltform in a single platform, which gives an edge over the users.
+ A application which diverse all threee aspects of gaming,blockchain and virtual reality in single paltform in a single platform, which gives an edge over the users.
  <br />
  <br/>
  
